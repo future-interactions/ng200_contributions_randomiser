@@ -62,6 +62,7 @@ function draw() {
 	image(img[ranNum], windowWidth / 2 - (img[ranNum].width * perScale) / 2, windowHeight / 2 - (img[ranNum].height * perScale) / 2, img[ranNum].width * perScale, img[ranNum].height * perScale);
 	
 	fill(220);
+	textSize(32);
 	text(text_titles[ranNum], width / 2, 110);
 	fill(0,trans);
 	rect(0,0,width,height);
