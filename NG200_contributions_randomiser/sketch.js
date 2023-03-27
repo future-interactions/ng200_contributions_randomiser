@@ -2,7 +2,7 @@ let img = [];
 let text_titles = [];
 let ranNum = 0;
 let table;
-let url = "https://docs.google.com/spreadsheets/d/e/2PACX-1vQumdtbxPmDzg5Kh9Jj7ULGDtgF4OFIMgtnGd6BZ2LNdWdmSgEWnkDu5_gzaDb8TfsEAB6Py58h3zYz/pub?gid=0&single=true&output=csv";
+let url = "https://docs.google.com/spreadsheets/d/e/2PACX-1vQWpDR4UKozELw8J-GT9F_D117Ppw1KS_voIbpT_KJ8QAQ3MIpFunX_O8bAEXdha4jzkHPMC_QLm8Cn/pub?output=csv";
 let file_name;
 let title;
 let item_count;
